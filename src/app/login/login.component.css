@@ -1,0 +1,16 @@
+html * {
+  font-family: 'Abel', sans-serif;
+  font-weight: 100;
+!important;
+}
+
+.login-frame {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 25%;
+}
+
+body {
+  background-color: #80DEEA;
+  margin: 0;
+}
